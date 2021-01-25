@@ -4,19 +4,19 @@ Este es un demo de mi app ideal de Beek
 #Capturas
 
 ##Login:
-![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/LoginView.png)
+<img src="https://github.com/adrian-morfi/beek-ios/blob/master/capturas/LoginView.png" width = "270" height = "540"  />
 
 ##Descubre:
-![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/DescubreView.png)
+<img src="https://github.com/adrian-morfi/beek-ios/blob/master/capturas/DescubreView.png" width = "270" height = "540"  />
 
 ##Audiobook Details:
-![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/AudioBookDetails.png)
+<img src="https://github.com/adrian-morfi/beek-ios/blob/master/capturas/AudioBookDetails.png" width = "270" height = "540"  />
 
 ##Descubre:
-![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/LogrosView.png)
+<img src="https://github.com/adrian-morfi/beek-ios/blob/master/capturas/LogrosView.png" width = "270" height = "540"  />
 
 ##MiniPlayer:
-![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/MiniPlayerView.png)
+<img src="https://github.com/adrian-morfi/beek-ios/blob/master/capturas/MiniPlayerView.png" width = "270" height = "540"  />
 
 ##Perfil:
-![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/PerfilView.png)
+<img src="https://github.com/adrian-morfi/beek-ios/blob/master/capturas/PerfilView.png" width = "270" height = "540"  />
