@@ -11,8 +11,9 @@ struct ContentView: View {
     @EnvironmentObject var user : UserModel
     
     var body: some View {
-        CustomTabView()
+        CustomTabView()        
             .preferredColorScheme(.dark)
+        
         
     }
 }
