@@ -3,6 +3,8 @@ Este es un demo de mi app ideal de Beek
 
 #Capturas
 
+![Login](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/LoginView.png =150x100 "Login")
+
 ##Login:
 ![](https://github.com/adrian-morfi/beek-ios/blob/master/capturas/LoginView.png)
 
